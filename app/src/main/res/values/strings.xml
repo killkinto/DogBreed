@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Raças</string>
+    <string name="breed_empty">Nenhuma raça disponível :(</string>
+    <string name="breed_failed">Uma falha inesperada aconteceu =/, toque aqui para tentar novamente </string>
+</resources>
